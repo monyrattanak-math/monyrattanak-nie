@@ -24,7 +24,7 @@ date_format = "Jan 12, 2006"
   title = "Introduction to Pure Mathematics"
   url = ""
   # certificate_url = "https://www.coursera.org"
-  date_start = "26-09-2019"
+  date_start = "Sep 26, 2019"
   date_end = ""
   description = "This talk about how pure mathematicians concern about problem and how important of pure math. Also, I talked about my phd problem as an example to see how problems in pure math look like."
 
