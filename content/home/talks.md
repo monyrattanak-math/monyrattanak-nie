@@ -67,3 +67,4 @@ subtitle = "This is a facebook page focus on pure mathematics. There are veriety
  # CSS class.
  css_class = ""
 +++
+This is a facebook page
