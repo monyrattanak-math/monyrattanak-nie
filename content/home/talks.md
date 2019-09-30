@@ -8,8 +8,8 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "The Nature of Mathematics"
-subtitle = ""
-summary = "This is a facebook page focus on pure mathematics."
+subtitle = "This is a facebook page focus on pure mathematics. There are veriety topics lived in the page. You can link to the video lived by clicking the title of the topic."
+
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "talk"
