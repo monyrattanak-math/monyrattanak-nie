@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "The Nature of Mathematics"
-subtitle = "This is a facebook page focus on pure mathematics. Click the topic on the right to link to the video lived."
+title = "Talks"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
