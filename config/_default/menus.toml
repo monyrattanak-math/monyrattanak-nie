@@ -25,7 +25,7 @@
   
 [[main]]
   name = "Gallery"
-  url = "#Gallery"
+  url = "#gallery"
   weight = 60
 [[main]]
   name = "Contact"
