@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "The Nature of Mathematics"
-url = "https://www.facebook.com/The-nature-of-Mathematics-336206410225057/"
+url = "www.facebook.com/The-nature-of-Mathematics-336206410225057/"
 subtitle = "This is a facebook page focus on pure mathematics. You can watch a video lived (in Khmer) by clicking on the topic on the left."
 
 [content]
