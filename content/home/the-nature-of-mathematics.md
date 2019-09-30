@@ -10,7 +10,7 @@ subtitle = "This is my facebook page focusing on pure mathematics. Click the top
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "12, Jan 2006"
+date_format = "Jan 12, 2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -26,7 +26,7 @@ date_format = "12, Jan 2006"
   # certificate_url = "https://www.coursera.org"
   date_start = "2019-09-26"
   date_end = ""
-  description = ""
+  description = "This talk about how pure mathematicians concern about problem and how important of pure math. Also, I talked about my phd problem as an example to see how problems in pure math look like."
 
 
   
