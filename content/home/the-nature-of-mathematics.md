@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "The Nature of Mathematics"
-subtitle = ""
+subtitle = "This is my facebook page focusing on pure mathematics. Click the topic to link to the video lived."
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
