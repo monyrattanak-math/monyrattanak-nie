@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "The Nature of Mathematics"
-subtitle = ""
+subtitle = "This is a facebook page focusing on pure mathematics created especially for Cambodain students who love math. On the right are some topics I talked on lived videos."
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   date_start = "2019-09-26"
   date_end = ""
   description = "This talk is about what problems pure mathematicians concern about and how important of pure math. Also, I talked about my phd problem as an example to see how problems in pure math look like."
-  
+
 [[item]]
   # organization = ""
   # organization_url = "https://www.coursera.org"
@@ -37,8 +37,8 @@ date_format = "Jan 2006"
   date_start = "2019-09-03"
   date_end = ""
   description = "One who love math always says that math is beautiful but how beautiful it is? We cannot see the beauty of math but we can feel it and different people feel it differently. In this talk, I give some reasons why math is beautiful for me."
-  
+
 
 
 +++
-This is a facebook page focusing on pure mathematics created especially for Cambodain students who love math. The following are some topics I talked on lived videos.
+
