@@ -27,7 +27,6 @@ date_format = "Jan 2006"
   date_start = "2019-09-26"
   date_end = ""
   description = "This talk is about what problems pure mathematicians concern about and how important of pure math. Also, I talked about my phd problem as an example to see how problems in pure math look like."
-
 [[item]]
   # organization = ""
   # organization_url = "https://www.coursera.org"
