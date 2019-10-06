@@ -89,15 +89,15 @@ email = "monyrattanak.seng@cimat.mx"
 phone = ""
 
 # Address
-  For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-  address = {street = "Jalisco S/N", city = "Guanajuato", region = "Gto", postcode = "36023", country = "Mexico", country_code = "MX"}
+# For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
+address = {street = "Jalisco S/N", city = "Guanajuato", region = "Gto", postcode = "36023", country = "Mexico", country_code = "MX"}
 
 # Geographic
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 # coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Directions for visitors to locate you.
-  directions = "Office: D105"
+directions = "Office: D105"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
