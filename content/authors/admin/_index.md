@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "monyrattanak.seng@cimat.mx".
+  link: 'mailto:monyrattanak.seng@cimat.mx'  # For a direct email link, use "monyrattanak.seng@cimat.mx".
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/buttra?ref=bookmarks
