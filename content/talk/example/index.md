@@ -1,15 +1,15 @@
 ---
-title: Example Talk
-event: Academic Theme Conference
-event_url: https://example.org
-location: London, United Kingdom
-summary: An example talk using Academic's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+title: Introduction to Lie Groups and Lie Algebras
+event: Mathematics Seminar
+event_url: ""
+location: Royal University of Phnom Penh, Cambodia
+# summary: An example talk using Academic's Markdown slides feature.
+abstract: "In this talk, I will give a motivation why a Norwegian mathematician Marius Sophus Lie (1842-1899) interested in Lie groups and Lie algebras. After that, I will introduce Lie groups and Lie algebras by providing simple definitions and some basic examples. Finally, I will mension some applications of Lie groups and Lie algebras."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2018-01-15T10:45:00Z"
+date_end: "2018-01-15T11:45:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
