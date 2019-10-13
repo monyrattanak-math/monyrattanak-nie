@@ -21,9 +21,9 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+# image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+#  focal_point: Right
 
 links:
 # - icon: twitter
@@ -31,8 +31,8 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
-url_slides: "/files/Lie groups and algebras.pdf"
+url_pdf: "/files/Lie groups and algebras.pdf"
+url_slides: ""
 url_video: ""
 
 # Markdown Slides (optional).
