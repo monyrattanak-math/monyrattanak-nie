@@ -32,7 +32,7 @@ links:
 #  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: "/files/Lie groups and algebras.pdf"
-url_slides: ""
+url_slides: "example"
 url_video: ""
 
 # Markdown Slides (optional).
