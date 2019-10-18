@@ -12,7 +12,7 @@
 theme = "Forest"
 
 # Enable users to switch between day and night mode?
-day_night = true
+day_night = false
 
 # Override the theme's font set (optional).
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
@@ -97,7 +97,7 @@ address = {street = "Jalisco S/N", city = "Guanajuato", region = "Gto", postcode
 # coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Directions for visitors to locate you.
-directions = "Office: D105"
+directions = "Office Cimat: D105"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
