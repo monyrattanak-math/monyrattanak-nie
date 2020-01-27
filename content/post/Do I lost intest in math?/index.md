@@ -5,7 +5,7 @@ math: true
 diagram: true
 markup: mmark
 image:
-  placement: 3
+  placement: 4
   caption:
 ---
 
