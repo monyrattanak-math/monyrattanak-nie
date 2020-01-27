@@ -1,7 +1,7 @@
 ---
-title: 'Academic: the website builder for Hugo'
-subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: Create a beautifully simple website in under 10 minutes.
+title: 'Do I lost interest in math?'
+subtitle: ''
+summary: 
 authors:
 - admin
 tags:
@@ -31,74 +31,12 @@ image:
 projects: []
 ---
 
-**Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and _language packs_ included!**
+I chose math as my major at university after high school in 2008 because I love math and understand high school math well so I want to know and learn more about math. During 4 years  in university, I studied many pure math such as real and complex analysis, topology, linear and abstract algebra, measure theory, group theory, differential on Banach spaces and so on. The courses range from difficult to very difficult and I didn't understand math clearly and just tried hard to obtained bachelor degree. However, this doesn't stop me from loving mathematics because difficulty is one of beauty of math and  I loved its confusion, abstraction and wanted to learn math more.
 
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://sourcethemes.com/academic/#expo) of personal, project, and business sites.
+So, graduated from university doesn't satisfy me. I still don't know about math, about pure math. Why I learn abstract algebra, topology or others abstract pure math courses? To find the answer, I decided to pursue master degree in mathematics in my university. During two years of master degree, I attended 22 courses and did one thesis in number theory. Each course is mostly taught from foreign professor for 45 hours (3 weeks, 5 days per weeks and 3 hours per day). Start from one professor for 3 weeks to another professor for 3 weeks and so on. What do I got after that 2 years? Nothing left and even not obtained a master degree. Luckily, this 2 years master learned me a chance to pursue again master degree in Mexico.
 
-- 👉 [**Get Started**](#install)
-- 📚 [View the **documentation**](https://sourcethemes.com/academic/docs/)
-- 💬 [**Ask a question** on the forum](https://discourse.gohugo.io)
-- 👥 [Chat with the **community**](https://spectrum.chat/academic)
-- 🐦 Twitter: [@source_themes](https://twitter.com/source_themes) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithAcademic](https://twitter.com/search?q=%23MadeWithAcademic&src=typd)
-- 💡 [Request a **feature** or report a **bug**](https://github.com/gcushen/hugo-academic/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- :heart: **Support development** of Academic:
-  - ☕️ [**Donate a coffee**](https://paypal.me/cushen)
-  - 💵 [Become a backer on **Patreon**](https://www.patreon.com/cushen)
-  - 🖼️ [Decorate your laptop or journal with an Academic **sticker**](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - 👕 [Wear the **T-shirt**](https://academic.threadless.com/)
-  - :woman_technologist: [**Contribute**](https://sourcethemes.com/academic/docs/contribute/)
+I start my second master degree in 2015 in Mexico specialized in pure math. There are 4 different areas in this institute (pure/basic math, applied math, computational math and probability and statistic) and I chose pure math because it is want I want to know. The first semester of my master degree in Mexico is the tough one. I learned only 2 courses (real analysis and linear algebra) compared to master in my university (maybe 5 courses per semester), it was little. However, I had to do homework every week and they are difficult and I had to obtain 8 out of 10 after semester or I would lose a very good scholarship. Thus, I must tried hard and in return, I understand more about pure math. I know more about real/complex analysis, abstract algebra and topology that I didn't understand clearly during my undergraduate and even had a chance to study courses I haven't studied before; namely, algebraic topology, Riemaniann geometry and representation theory of associative algebra. With all my hard work, I obtained my master degree with a thesis related on Lie group and Lie algebra.
 
-{{< figure src="https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png" lightbox="true" >}}
+With this understanding, I had confident to pursue phd degree with the same adviser in the same institute in 2017. I started to understand more, to learn more, to read more in order to solve my phd problem. I started read various articles, books. I started from didn't know where to start with my problem to understand my problem, to know where to go. Thank to my adviser for all of these and everything is going fine and I almost solved my problem and think of continuing to become a mathematician. But is it always happy like that?
 
-**Key features:**
-
-- **Page builder** - Create *anything* with [**widgets**](https://sourcethemes.com/academic/docs/page-builder/) and [**elements**](https://sourcethemes.com/academic/docs/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://sourcethemes.com/academic/docs/writing-markdown-latex/), [**Jupyter**](https://sourcethemes.com/academic/docs/jupyter/), or [**RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://sourcethemes.com/academic/themes/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 15+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
-
-## Themes
-
-Academic comes with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can  choose their preferred mode - click the sun/moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
-
-[Choose a stunning **theme** and **font**](https://sourcethemes.com/academic/themes/) for your site. Themes are fully [customizable](https://sourcethemes.com/academic/docs/customization/#custom-theme).
-
-## Ecosystem
-
-* **[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site
-* **[Academic Scripts](https://github.com/sourcethemes/academic-scripts):** Scripts to help migrate content to new versions of Academic
-
-## Install
-
-You can choose from one of the following four methods to install:
-
-* [**one-click install using your web browser (recommended)**](https://sourcethemes.com/academic/docs/install/#install-with-web-browser)
-* [install on your computer using **Git** with the Command Prompt/Terminal app](https://sourcethemes.com/academic/docs/install/#install-with-git)
-* [install on your computer by downloading the **ZIP files**](https://sourcethemes.com/academic/docs/install/#install-with-zip)
-* [install on your computer with **RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
-
-Then [personalize and deploy your new site](https://sourcethemes.com/academic/docs/get-started/).
-
-## Updating
-
-[View the Update Guide](https://sourcethemes.com/academic/docs/update/).
-
-Feel free to *star* the project on [Github](https://github.com/gcushen/hugo-academic/) to help keep track of [updates](https://sourcethemes.com/academic/updates).
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md) license.
+Until now, I think I lost interest in math or pure math. I don't know. I phd problem is in progress and everything is fine but I just try hard to solve my problem in order to finish my phd. I don't care about other subjects, I don't want to know more, I don't want to know detail but result for solving my problem. I don't interest in the problem as before. I don't care much if it is not related to my problem. I don't bother if I can solve the problem or not. I just want a result, I just want to solve my phd problem as soon as possible. The problem, the technique of solving the problem, the detail, all of these just nothing for me. I can't see their beauties anymore. When I see some math problem on Facebook, I just scroll down. I don't want to know more than what I do now. I get bored of math problem. On my free time, I just play, sleep and eat. I don't work much on math and when I work, I can't stay focus on it. I get bored of it easily. Sometimes, I just want to go back to my home country, work as lecturer at my university, live a simple life as most of my other friends do. But! this will satisfy me and this all what I want?
