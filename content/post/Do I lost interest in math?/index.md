@@ -1,15 +1,8 @@
 ---
 title: 'Do I lost interest in math?'
 subtitle: ''
-summary: 
-authors:
-- admin
-tags:
-- Academic
-categories:
-- Demo
-date: "2016-04-20T00:00:00Z"
-lastmod: "2019-04-17T00:00:00Z"
+date: "2020-01-26"
+lastmod: ""
 featured: false
 draft: false
 
@@ -19,7 +12,7 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
