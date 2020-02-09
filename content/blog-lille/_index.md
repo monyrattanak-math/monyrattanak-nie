@@ -6,7 +6,7 @@ draft: false
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 menu:
-  life-in-mexico:
+  blog-lille:
     weight: 1
 ---
 
@@ -102,4 +102,24 @@ La primera vez que vi un grupo de estas personas, como yo no sabía que hacían,
 le mostrara mi tarjeta y ya estaba listo para multarme. Y sí, hay algunos franceses que se suben sin pagar, y ya me ha tocado ver como unas 4 veces que le están
 levantando una multa a alguien.
 
-# Gallery
+# Galería
+## Enero
+
+<b> Mi calle </b>
+
+<img src="rue_Eglise.JPG" alt="Rue de l'Église">
+<img src="rue_Eglise_2.JPG" alt="Rue de l'Église">
+
+## Febreo
+
+<b> Inria </b>
+
+<img src="Inria.JPG" alt="Rue de l'Église">
+
+<b> Calles de Lille </b>
+
+<img src="Calle Random_2.JPG" alt="Rue de l'Église">
+<img src="Calle Random_3.JPG" alt="Rue de l'Église">
+<img src="Calle Random_4.JPG" alt="Rue de l'Église">
+
+
