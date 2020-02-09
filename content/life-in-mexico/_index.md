@@ -6,7 +6,7 @@ draft: false
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 menu:
-  life-in-mexico:
+  Life in Mexico:
     weight: 1
 ---
 
