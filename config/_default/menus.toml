@@ -28,15 +28,20 @@
   name = "The Nature of Mathematics"
   url = "#the-nature-of-mathematics"
   weight = 60 
+
+[[main]]
+  name = "Life in Mexico"
+  url = "#life-in-mexico"
+  weight = 70
   
 [[main]]
   name = "Gallery"
   url = "#gallery"
-  weight = 70
+  weight = 80
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 80
+  weight = 90
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
