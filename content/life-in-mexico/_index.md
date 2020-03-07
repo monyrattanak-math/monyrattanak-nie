@@ -18,7 +18,7 @@ Mexico? Where is Mexico? When talking about Mexico, Khmer people almost know not
 
 When I was accepted to pursue my master degree in Mexico, I had no idea where it is until I searched in Google map to see that it is below USA on the map. I thought that Mexican speaks Mexican language and it turned out that they speak Spanish  and only think I knew about Mexico was drug dealers.
 
-My neighbors asked my mom if it was safe in Mexico and some even asked if Mexico was a state of USA. In fact, I had no ideas. I checked online to see whether Guanajuato (I didn't know how to pronounce it) is self or not and the result was it is one of the safe states in Mexico. Looked on some photos and videos of Guanajuato, OK! I just loved it, loved the colorful it is and I wanted to go there. I thought that if it was dangerous, I just go to school and return to house.
+My neighbors asked my mom if it was safe in Mexico and some even asked if Mexico was a state of USA. In fact, I had no ideas. I checked online to see whether Guanajuato (I didn't know how to pronounce it) was safe or not and the result was it is one of the safe states in Mexico. Looked on some photos and videos of Guanajuato, OK! I just loved it, loved the colorful it is and I wanted to go there. I thought that if it was dangerous, I just go to school and return to house.
 
 
 # Before Arrived Mexico
