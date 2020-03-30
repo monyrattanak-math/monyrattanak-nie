@@ -42,7 +42,7 @@ Tomorrow morning, we went to Mexican embbasy by taxi. The taxi driver and the lo
 
 Mostly we ate at restaurants they speak English. Luckily, my friend has a friend lived in VN for study. So we met up and our lives were better. We went to market to buy something and ate in affordable restaurants. However, everything there was more expensive than in Cambodia. We went back and I worried about the flight back. As I thought, I vomited 2 times again in Lao and Cambodia. I was worry about a long jurney to Mexico, luckily an American woman approched me, when we landed on in Cambodia, and told me that there are bracelets to prevent movement sickness. I didn't know anything about that but this was only my hope.
 
-For me, I don't like their lifestyle (local Vietnamese) and the surroundin, the way they teat foreigner, the way they drive but this is just a part of VN and in fact there are many places in VN people recommend. After that we realized that we could process visas en Thailand, and we thought that it would be more fun than in VN. This was because we followed the advice from French professor and we had no ideas (non of us went aboard before) as this was our first time. However, everythig ocure for reason.
+For me, I don't like their lifestyle (local Vietnamese) and the surrounding, the way they treat foreigners and the way they drive but this is just a part of VN and in fact there are many places in VN people recommend. After that, we realized we could process visas in Thailand, and we thought that it would be more fun than in VN. This was because we followed the advice from French professor and we had no ideas (non of us went aboard before) as this was our first time. However, everythig ocure for reason.
 
 # Arriving Mexico
 
