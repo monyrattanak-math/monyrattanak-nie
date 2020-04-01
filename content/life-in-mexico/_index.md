@@ -20,7 +20,7 @@ When I was accepted to pursue my master degree in Mexico, I had no idea where it
 
 My neighbors asked my mom if it was safe in Mexico and some even asked if Mexico was a state of USA. In fact, I had no ideas. I checked online to see whether Guanajuato (I didn't know how to pronounce it) was safe or not and the result was it is one of the safe states in Mexico. Looked on some photos and videos of Guanajuato, OK! I just loved it, loved the colorful it is and I wanted to go there. I thought that if it was dangerous, I just go to school and return to house.
 
-# Before Arrived Mexico
+# Flight Tickets and Mexican Visas
 
 Why Mexico? After finished my master degree  in Cambodia, I was one of the top 5 in the program so professors from France helped us find scholarship for (standard) master degree abroad. They suggested some scholarships in France for the first rank and CIMAT, Mexico for the other four. This was a first time they recommended Mexico and there was no one pursue higher degree in math at Mexico before. So, I decided to apply for master degree in Centro de Investigación en Matemáticas (CIMAT), Guanajuato, Mexico with other 3 friends. Be the one or among the first went to a country that most Cambodian (Khmer) don't even know or visit was cool, wasn't it?
 
@@ -44,7 +44,15 @@ Mostly we ate at restaurants they speak English. Luckily, my friend has a friend
 
 For me, I don't like their lifestyle (local Vietnamese) and the surrounding, the way they treat foreigners and the way they drive but this is just a part of VN and in fact there are many places in VN people recommend. After that, we realized we could process visas in Thailand, and we thought that it would be more fun than in VN. This was because we followed the advice from French professor and we had no ideas (non of us went aboard before) as this was our first time. However, everythig ocure for reason.
 
-# Arriving Mexico
+# A Journey to Mexico
+
+A flight to Mexico was transit in Malaysia (about 11 hours) then transit in Germany (about 6 hours) and we arrived Mexico city at night. There was a person from CIMAT had waited for us at airport and drove us to Guanajuato. According to this journey, I would had vomit 4 times. I was afraid and my only holp was bracelets an American recommended. I didn't know where to buy them but forturnately, I found them. Did they help?
+
+Another problem came, I had to prepare my stuffs in a luggage to weight at most 23 kg. 23 kg? only 23? I needed more but not for my clothes or shoes but my foods. I brought a lot of foods such as beef and pork sausages, dry pork, rice noodles, some sauce and ingredients etc... etc... I had no ideas about Mexican foods so that I had to prepare for the first week or month in Mexico before I got used to the foods. I prepared well but unforturnately, I didn't review about foods restriction into Mexico. Before leaved the airport in Mexico city, we were ask to open our luggages but I had no idea why they didn't speak English. It is an international airport. Were they just kidding me? A woman took out my foods and just ask me "chicken?" (she just spoke a little English as she knew that I didn't speak Spanish). I didn't like chicken so I didn't bring it and took away all my meats and some ingredient with seeds. It was like she took away an icecream from a little kid and I just watched it without knowing how to say. I only had some package of noodle, rice and some ingredients. How sad!
+
+Return to bracelets, they worked. I didn't know how they worked but they did. They saved my life. I didn't vomit or even felt uncomtable and I was really thankful for that American woman. Of course, we all were exhausted because of a very long journey. We arrived at Guanajuato at night and it was very cold (for me at that time because it is very hot in Cambodia). We stayed at Cimatel prepared by CIMAT. A problem was that we all were hungry but it was night and we didn't speak Spanish. What could we do? Did we pass a night without eating?
+
+# The first Week in Mexico
 
 # Spanish Classes
 
@@ -57,6 +65,8 @@ For me, I don't like their lifestyle (local Vietnamese) and the surrounding, the
 # Gallery
 
 {{< figure src="Gallery/Visa-in-VN.jpg" title="With a friend (the last one left to right) in VN" lightbox="true" >}}
+
+{{< figure src="anit-movement-sickness.jpg" title="The bracelets helped me passed through difficult situation" lightbox="true" >}}
 
 
 
