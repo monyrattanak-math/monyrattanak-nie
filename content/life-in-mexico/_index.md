@@ -60,7 +60,7 @@ For me, I don't like their lifestyle (local Vietnamese) and the surrounding, the
 
 gallery_item:
 - album: <Gallery>
-  image: <Visa-in-VN.jpg>.jpg
+  image: <Visa-in-VN>.jpg
   caption: Write your image caption here
 
 
