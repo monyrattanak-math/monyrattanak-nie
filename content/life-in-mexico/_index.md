@@ -66,7 +66,7 @@ Return to bracelets, they worked. I didn't know how they worked but they did. Th
 
 {{< figure src="Gallery/Visa-in-VN.jpg" title="With a friend (the last one left to right) in VN" lightbox="true" >}}
 
-{{< figure src="anit-movement-sickness.jpg" title="The bracelets helped me passed through difficult situation" lightbox="true" >}}
+{{< figure src="Gallery/anit-movement-sickness.jpg" title="The bracelets helped me passed through difficult situation" lightbox="true" >}}
 
 
 
