@@ -56,7 +56,7 @@ For me, I don't like their lifestyle (local Vietnamese) and the surrounding, the
 
 # Gallery
 
-{{< figure src="Gallery\Visa-in-VN.jpg" title="A caption" lightbox="true" >}}
+{{< figure src="Gallery/Visa-in-VN.jpg" title="A caption" lightbox="true" >}}
 
 gallery_item:
 - album: Gallery
