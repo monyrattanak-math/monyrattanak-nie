@@ -54,8 +54,27 @@ For me, I don't like their lifestyle (local Vietnamese) and the surrounding, the
 
 # Phd Life
 
-
-
-
-
 # Gallery
+
+{{< figure src="Visa-in-VN.jpg" title="A caption" lightbox="true" >}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
