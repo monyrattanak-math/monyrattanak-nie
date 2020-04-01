@@ -58,7 +58,10 @@ For me, I don't like their lifestyle (local Vietnamese) and the surrounding, the
 
 {{< figure src="Visa-in-VN.jpg" title="A caption" lightbox="true" >}}
 
-
+gallery_item:
+- album: <Gallery>
+  image: <Visa-in-VN.jpg>.jpg
+  caption: Write your image caption here
 
 
 
