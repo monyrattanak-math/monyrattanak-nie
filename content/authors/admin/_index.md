@@ -20,10 +20,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Where there is a will, there is a way.
 
-interest:
-- Toeplitz Operators on Weighted Bergman Spaces
-- Representation Theory of Compact Groups
-- Representation Theory of Lie algebras
+interests:
+- C*-algebras of Toeplitz operators
+- Representation Theory of Compact Groups and Lie algebras
 
 education:
   courses:
