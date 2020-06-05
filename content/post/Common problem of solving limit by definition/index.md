@@ -1,5 +1,5 @@
 ---
-title: Common Problem of Solving Limits by Definition
+title: Common Mistake of Solving Limits of Sequence by Definition
 date: 2020-06-04
 math: true
 diagram: true
@@ -79,9 +79,53 @@ $$
 
 Hence,
 
-$$\lim_{n\to\infty}{\frac{n^2}{n^2+1}}=1$S
+$$\lim_{n\to\infty}{\frac{n^2}{n^2+1}}=1$$
+
 We can see that in proof 3, we don't need to solve for N. By definition of the limit, we just want to know whether exists N or not. There are 2 version of the archimedean property.
 
-Version 1: For any real number x, there is a natural number n such that x<n.
+Version 1: For any real number x, there is a natural number n such that $$x<n$$.
 
-Version 2: For any real number a and b, there is a natural number such that a<nb.
+Version 2: For any real number a and b, there is a natural number such that $$a<nb$$.
+
+Now, we give another example and solve it using the archimedean property. The reader can try to solve it using way 1 or way 2 above and compare.
+
+Example 2: Prove by definition that
+
+$$
+\lim_{n\to\infty}{\frac{n}{\sqrt[3]{n^3+1}}}=1.
+$$
+
+Proof: For all $n=1,2,\cdots$, we have
+
+$$
+\left\vert\frac{n}{\sqrt[3]{n^3+1}}-1\right\vert
+=\left\vert\frac{n-\sqrt[3]{n^3+1}}{\sqrt[3]{n^3+1}}\right\vert
+=\frac{\sqrt[3]{n^3+1}-n}{\sqrt[3]{n^3+1}}
+$$
+
+and
+
+$$
+n^3+1<(n+1)^3\Leftrightarrow\sqrt[3]{n^3+1}<n+1\Leftrightarrow\sqrt[3]{n^3+1}-n<1.
+$$
+
+Let $\epsilon>0$. By archimedean property, there exists $N\in\N$ such that $\frac{1}{N}<\epsilon$.
+
+Thus, $\forall n\geq N$, we have
+
+$$
+\frac{\sqrt[3]{n^3+1}}{\sqrt[3]{n^3+1}-n}
+>\sqrt[3]{n^3+1}>n\geq N
+$$
+
+so that 
+
+$$
+\frac{\sqrt[3]{n^3+1}-n}{\sqrt[3]{n^3+1}}<\frac{1}{N}<\epsilon.
+$$
+
+Hence,
+
+$$
+\lim_{n\to\infty}{\frac{n}{\sqrt[3]{n^3+1}}}=1
+$$
