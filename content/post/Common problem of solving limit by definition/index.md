@@ -28,7 +28,7 @@ We provide 3 different proof for the above problem. The reader should compare th
 
 Correciones:
 
-Proof 1: Using definition for all $\epsilon>0$
+Proof 1: Using definition for all $\epsilon>0$.
 
 Given $\epsilon>0$, then
 
@@ -38,7 +38,7 @@ Define
 
 $$ N=
 \begin{cases}
-\left[\sqrt{\dfrac{1}{\epsilon}-1}\right]+1 & \text{ if }0<\epsilon<1 \\
+\left[\sqrt{\dfrac{1}{\epsilon}-1}\right]+1 & \text{ if } 0<\epsilon<1 \\
 1 & \text{ if } \epsilon\geq 1
 \end{cases}
 $$
@@ -52,7 +52,7 @@ Hence,
 
 $$\lim_{n\to\infty}{\frac{n^2}{n^2+1}}=1$$
 
-Proof 2: Using small $\epsilon$ and extend to all $\epsilon>0$
+Proof 2: Using small $\epsilon$ and extend to all $\epsilon>0$.
 
 Let $0<\epsilon\leq 1$, then
 
@@ -69,7 +69,7 @@ Hence,
 
 $$\lim_{n\to\infty}{\frac{n^2}{n^2+1}}=1$$
 
-Proof 3: Using archimedean property
+Proof 3: Using archimedean property.
 
 Given $\epsilon>0$. By archimedean property, there exists $N\in\mathbb{N}$ such that $\frac{1}{N}<\epsilon$. Then for all $n\geq N$, we have
 
@@ -83,9 +83,9 @@ $$\lim_{n\to\infty}{\frac{n^2}{n^2+1}}=1$$
 
 We can see that in proof 3, we don't need to solve for N. By definition of the limit, we just want to know whether exists N or not. There are 2 version of the archimedean property.
 
-Version 1: For any real number x, there is a natural number n such that $$x<n$$.
+Version 1: For any real number x, there is a natural number n such that x<n.
 
-Version 2: For any real number a and b, there is a natural number such that $$a<nb$$.
+Version 2: For any real number a and b, there is a natural number such that a<nb.
 
 Now, we give another example and solve it using the archimedean property. The reader can try to solve it using way 1 or way 2 above and compare.
 
@@ -106,22 +106,21 @@ $$
 and
 
 $$
-n^3+1<(n+1)^3\Leftrightarrow\sqrt[3]{n^3+1}<n+1\Leftrightarrow\sqrt[3]{n^3+1}-n<1.
+n^{3}+1<(n+1)^3 \Leftrightarrow \sqrt[3]{n^3+1}<n+1 \Leftrightarrow \sqrt[3]{n^3+1}-n<1.
 $$
 
-Let $\epsilon>0$. By archimedean property, there exists $N\in\N$ such that $\frac{1}{N}<\epsilon$.
+Let $\epsilon>0$. By archimedean property, there exists $N\in\mathbb{N}$ such that $\frac{1}{N}<\epsilon$.
 
 Thus, $\forall n\geq N$, we have
 
 $$
-\frac{\sqrt[3]{n^3+1}}{\sqrt[3]{n^3+1}-n}
->\sqrt[3]{n^3+1}>n\geq N
+\frac{\sqrt[3]{n^3+1}}{\sqrt[3]{n^3+1}-n} > \sqrt[3]{n^3+1} > n\geq N
 $$
 
 so that 
 
 $$
-\frac{\sqrt[3]{n^3+1}-n}{\sqrt[3]{n^3+1}}<\frac{1}{N}<\epsilon.
+\frac{\sqrt[3]{n^3+1}-n}{\sqrt[3]{n^3+1}} < \frac{1}{N} < \epsilon.
 $$
 
 Hence,
