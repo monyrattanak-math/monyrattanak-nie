@@ -103,7 +103,7 @@ $$ \left\vert\frac{n}{\sqrt[3]{n^3+1}}-1\right\vert
 
 and
 
-$$ n^3+1 < (n+1)^3 \Leftrightarrow $$
+$$ n^3+1 < (n+1)^3 \Leftrightarrow \sqrt[3]{n^3+1} < n+1 $$
 
 $$ n^{3}+1<(n+1)^3 \Leftrightarrow \sqrt[3]{n^3+1}<n+1 \Leftrightarrow \sqrt[3]{n^3+1}-n<1.$$
 
