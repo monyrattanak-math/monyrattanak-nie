@@ -6,20 +6,11 @@ diagram: true
 markup: mmark
 ---
 
-Example **math block**:
 
-```tex
-$$\gamma_{n} = \frac{ 
-\left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T 
-\left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}
-{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
-```
-
-renders as
 
 $$\lim_{n\to\infty}{\frac{n^2}{n^2+1}}=1$$
 
-Proof:
+\begin{proof}
 Let $\epsilon>0$, if $$\Big\vert\frac{n^2}{n^2+1}-1\Big\vert<\epsilon$$ then $$\frac{1}{n^2+1}<\epsilon$$ so that $$n>\sqrt{\frac{1}{\epsilon}-1}$$
 
 Choose $N=\left[\sqrt{\dfrac{1}{\epsilon}-1}\right]+1$ then $\forall n\geq N$, we have
@@ -29,7 +20,7 @@ Hence,
 
 $$\lim_{n\to\infty}{\frac{n^2}{n^2+1}}=1$$
 
-
+\end{proof}
 
 Example **multi-line math** using the `\\` math linebreak:
 
