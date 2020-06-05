@@ -19,7 +19,15 @@ renders as
 
 $$\lim_{n\to\infty}{\frac{n^2}{n^2+1}}=1$$
 
-Example **inline math** `$$\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2$$` renders as $$\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2$$ .
+\begin{proof}
+Let $\epsilon>0$, if $\Big|\dfrac{n^2}{n^2+1}-1\Big|<\epsilon$ then $\dfrac{1}{n^2+1}<\epsilon$ so that $n>\sqrt{\dfrac{1}{\epsilon}-1}$
+
+Choose $N=\left[\sqrt{\dfrac{1}{\epsilon}-1}\right]+1$ then $\forall n\geq N$, we have
+$\Big|\dfrac{n^2}{n^2+1}-1\Big|<\epsilon$.
+
+Hence,$$\lim_{n\to\infty}{\frac{n^2}{n^2+1}}=1$$
+\end{proof}
+
 
 Example **multi-line math** using the `\\` math linebreak:
 
