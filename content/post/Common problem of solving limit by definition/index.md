@@ -97,21 +97,15 @@ $$
 
 Proof: For all $n=1,2,\cdots$, we have
 
-$$
-\left\vert\frac{n}{\sqrt[3]{n^3+1}}-1\right\vert
+$$ \left\vert\frac{n}{\sqrt[3]{n^3+1}}-1\right\vert
 =\left\vert\frac{n-\sqrt[3]{n^3+1}}{\sqrt[3]{n^3+1}}\right\vert
-=\frac{\sqrt[3]{n^3+1}-n}{\sqrt[3]{n^3+1}}
-$$
+=\frac{\sqrt[3]{n^3+1}-n}{\sqrt[3]{n^3+1}}$$
 
 and
 
-$$
-n^3+1 < (n+1)^3 \Leftrightarrow
-$$
+$$ n^3+1 < (n+1)^3 \Leftrightarrow $$
 
-$$
-n^{3}+1<(n+1)^3 \Leftrightarrow \sqrt[3]{n^3+1}<n+1 \Leftrightarrow \sqrt[3]{n^3+1}-n<1.
-$$
+$$ n^{3}+1<(n+1)^3 \Leftrightarrow \sqrt[3]{n^3+1}<n+1 \Leftrightarrow \sqrt[3]{n^3+1}-n<1.$$
 
 Let $\epsilon>0$. By archimedean property, there exists $N\in\mathbb{N}$ such that $\frac{1}{N}<\epsilon$.
 
