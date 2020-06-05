@@ -23,9 +23,10 @@ Proof:
 Let $\epsilon>0$, if $$\Big\vert\frac{n^2}{n^2+1}-1\Big\vert<\epsilon$$ then $$\frac{1}{n^2+1}<\epsilon$$ so that $$n>\sqrt{\frac{1}{\epsilon}-1}$$
 
 Choose $N=\left[\sqrt{\dfrac{1}{\epsilon}-1}\right]+1$ then $\forall n\geq N$, we have
-$\Big\vert\frac{n^2}{n^2+1}-1\Big\vert<\epsilon$.
+$$\Big\vert\frac{n^2}{n^2+1}-1\Big\vert<\epsilon$$.
 
 Hence,
+
 $$\lim_{n\to\infty}{\frac{n^2}{n^2+1}}=1$$
 
 
