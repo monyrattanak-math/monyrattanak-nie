@@ -5,13 +5,13 @@ math: true
 diagram: true
 markup: mmark
 ---
-We present a mistake some students and teachers made when solving limit of sequence by definition. Consider the following example.
+We present a mistake some students and teachers made when solving limits of sequence by definition. Consider the following example.
 
 Example 1: Prove by definition that
 
 $$\lim_{n\to\infty}{\frac{n^2}{n^2+1}}=1$$
 
-The following proof are used by some students and teacher.
+The following proof are used by some students and teachers.
 
 Let $\epsilon>0$, if $$\Big\vert\frac{n^2}{n^2+1}-1\Big\vert<\epsilon$$ then $$\frac{1}{n^2+1}<\epsilon$$ so that $$n>\sqrt{\frac{1}{\epsilon}-1}$$
 
@@ -22,11 +22,11 @@ Hence,
 
 $$\lim_{n\to\infty}{\frac{n^2}{n^2+1}}=1$$
 
-The error in the proof is that the way they choose the value N. N is not defined if $$\epsilon$$ is too big. This tiny mistake always made when they are ignore or don't understand very well the definition of the limit, and usually think of $$\epsilon$$ choosen being small enough. We can only prove for sufficently small $$\epsilon$$ if we already proof or understand the equivalence between the two.
+The error in the proof is that the way they choose the value $N$. $N$ is not defined if $$\epsilon$$ is too big. This tiny mistake usually made when they are ignore or don't understand well the definition of the limit, and usually think of $$\epsilon$$ to be small. We can only prove for sufficently small $$\epsilon$$ rather than for all positive $$\epsilon$$ if we already proof the equivalence between the two.
 
-We provide 3 different proof for the above problem. The reader should compare these 3 ways with each other and proof above.
+We provide 3 different proofs for the above problem. The readers should compare these 3 ways with each other and the proof above.
 
-Correciones:
+Corrections:
 
 Proof 1: Using definition for all $\epsilon>0$.
 
@@ -81,11 +81,11 @@ Hence,
 
 $$\lim_{n\to\infty}{\frac{n^2}{n^2+1}}=1$$
 
-We can see that in proof 3, we don't need to solve for N. By definition of the limit, we just want to know whether exists N or not. There are 2 version of the archimedean property.
+We can see that in proof 3, we don't need to solve for $N$. By definition of the limit, we just want to know whether $N$ exists or not. There are 2 versions of the archimedean property.
 
-Version 1: For any real number x, there is a natural number n such that x<n.
+Version 1: For any real number $x$, there is a natural number $n$ such that $x<n$.
 
-Version 2: For any real number a and b, there is a natural number such that a<nb.
+Version 2: For any real number $a$ and $b$, there is a natural number $n$ such that $a<nb$.
 
 Now, we give another example and solve it using the archimedean property. The reader can try to solve it using way 1 or way 2 above and compare.
 
