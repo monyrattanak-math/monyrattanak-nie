@@ -13,7 +13,7 @@ menu:
 This is my life experiences about Mexico.
 
 # Mexico's Stereotype in Cambodia
-
+date: "2019-05-05T00:00:00+01:00"
 Mexico? Where is Mexico? When talking about Mexico, Khmer people almost know nothing but drugs. Back to more then ten years ago, there was a Mexican drama called "Marimar". This serie was very famous in Cambodia that time and the names of a man who loves Marimar, translated in Khmer: Sochio and her dog : Kako were used frequently in comedy shows.
 
 When I was accepted to pursue my master degree in Mexico, I had no idea where it is until I searched in Google map to see that it is below USA on the map. I thought that Mexican speaks Mexican language and it turned out that they speak Spanish  and only think I knew about Mexico was drug dealers.
@@ -53,6 +53,7 @@ Another problem came, I had to prepare my stuffs in a luggage to weight at most 
 Return to bracelets, they worked. I didn't know how they worked but they did. They saved my life. I didn't vomit or even felt uncomtable and I was really thankful for that American woman. Of course, we all were exhausted because of a very long journey. We arrived at Guanajuato at night and it was very cold (for me at that time because it is very hot in Cambodia). We stayed at Cimatel prepared by CIMAT. A problem was that we all were hungry but it was night and we didn't speak Spanish. What could we do? Did we pass a night without eating?
 
 # The first Week in Mexico
+
 
 # Spanish Classes
 
