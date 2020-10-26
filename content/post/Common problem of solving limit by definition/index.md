@@ -22,13 +22,13 @@ Hence,
 
 $$\lim_{n\to\infty}{\frac{n^2}{n^2+1}}=1$$
 
-កំហុស​ក្នុងដំណោះស្រាយ​ខាងលើ​ គឺការកំណត់តម្លៃ $N$. $N$ មិនអាចកំណត់បានទេ ប្រសិនបើ  $$\epsilon$$ មានតម្លៃធំខ្លាំង ។ កំហុសតូចនេះ ជាធម្មតាកើតឡើង នៅពេលដែលយើង មិនបានយល់ច្បាស់ពីនិយមន័យ ហើយគិតថា តម្លៃ $$\epsilon$$ គឺជ្រើសរើសយកតូចបំផុត ។ ជាការពិត យើងអាចស្រាយបញ្ជាក់ ចំពោះតែ​ករណី $$\epsilon$$ តូចក៏បាន បើសិនជាយើងបានស្រាយភាពសមមូលជាមួយនឹងនិយមន័យដើម ។
+កំហុស​ក្នុងដំណោះស្រាយ​ខាងលើ​ គឺការកំណត់តម្លៃ $N$។ $N$ មិនអាចកំណត់បានទេ ប្រសិនបើ  $$\epsilon$$ មានតម្លៃធំខ្លាំង ។ កំហុសតូចនេះ ជាធម្មតាកើតឡើង នៅពេលដែលយើង មិនបាន​យល់​ច្បាស់​ពី​និយមន័យ ហើយ​គិត​ថា តម្លៃ $$\epsilon$$ គឺជ្រើសរើស​យក​តូចបំផុត ។ ជាការពិត យើង​អាច​ស្រាយបញ្ជាក់ ចំពោះតែ​ករណី $$\epsilon$$ តូចក៏បាន បើសិនជាយើងបានស្រាយភាពសមមូលជាមួយនឹងនិយមន័យដើម ។
 
-We provide 3 different proofs for the above problem. The readers should compare these 3 ways with each other and the proof above.
+យើងនឹងផ្តល់ជូននូវដំណោះស្រាយបីផ្សេងគ្នា ទាក់ទងនឹងឧទាហរណ៍ខាងលើ។
 
-Corrections:
+ដំណោះស្រាយ
 
-Proof 1: Using definition for all $\epsilon>0$.
+ដំណោះស្រាយ 1: ប្រើប្រាស់និយមន័យ ចំពោះគ្រប់ $\epsilon>0$.
 
 Given $\epsilon>0$, then
 
@@ -52,7 +52,7 @@ Hence,
 
 $$\lim_{n\to\infty}{\frac{n^2}{n^2+1}}=1$$
 
-Proof 2: Using small $\epsilon$ and extend to all $\epsilon>0$.
+ដំណោះស្រាយ 2: ប្រើប្រាស់តម្លៃ $\epsilon$ តូច រួចពង្រីកទៅតម្លៃ $\epsilon>0$ វិជ្ជមានទូទៅ.
 
 Let $0<\epsilon\leq 1$, then
 
@@ -69,7 +69,7 @@ Hence,
 
 $$\lim_{n\to\infty}{\frac{n^2}{n^2+1}}=1$$
 
-Proof 3: Using archimedean property.
+ដំណោះស្រាយ 3: ប្រើប្រាស់ archimedean property.
 
 Given $\epsilon>0$. By archimedean property, there exists $N\in\mathbb{N}$ such that $\frac{1}{N}<\epsilon$. Then for all $n\geq N$, we have
 
@@ -81,9 +81,9 @@ Hence,
 
 $$\lim_{n\to\infty}{\frac{n^2}{n^2+1}}=1$$
 
-We can see that in proof 3, we don't need to solve for $N$. By definition of the limit, we just want to know whether $N$ exists or not. There are 2 versions of the archimedean property.
+យើងសង្កេតឃើញថា នៅក្នុងដំណោះស្រាយទី 3 យើងមិនចាំបាច់គណនារកតម្លៃ $N$ ឡើយ។ ការគណនាតម្លៃ $N$ អាចមានភាពស្មុគស្មាញ និងពិបាកទៅតាមប្រភេទនៃស្វ៊ីត ។ ដូចនេះ archimedean property ជាលក្ខណៈសំខាន់មួយដែលសិស្ស និស្សិត គួរយល់ និង​ ចាំ ពេលដោះស្រាយលីមីតនៃស្វ៊ីតតាមនិយមន័យ។ Archimedean property មាន 2 និយមន័យ ដែលសមមូលគ្នាដូចខាងក្រោម៖
 
-Version 1: For any real number $x$, there is a natural number $n$ such that $x<n$.
+និយមន័យ 1: For any real number $x$, there is a natural number $n$ such that $x<n$.
 
 Version 2: For any real number $a$ and $b$, there is a natural number $n$ such that $a<nb$.
 
