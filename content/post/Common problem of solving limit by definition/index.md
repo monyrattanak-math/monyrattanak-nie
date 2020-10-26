@@ -1,5 +1,5 @@
 ---
-title: កំហុសដែលពេញនិយម ពេលដោះស្រាយលីមីតនៃស្វ៊ីតតាមនិយមន័យ
+title: កំហុសដែលពេញនិយម ពេលដោះស្រាយ​លីមីត​នៃស្វ៊ីត​តាមនិយមន័យ
 date: 2020-06-04
 math: true
 diagram: true
@@ -22,7 +22,7 @@ Hence,
 
 $$\lim_{n\to\infty}{\frac{n^2}{n^2+1}}=1$$
 
-The error in the proof is that the way they choose the value $N$. $N$ is not defined if $$\epsilon$$ is too big. This tiny mistake usually made when they are ignore or don't understand well the definition of the limit, and usually think of $$\epsilon$$ to be small. We can only prove for sufficently small $$\epsilon$$ rather than for all positive $$\epsilon$$ if we already proof the equivalence between the two.
+កំហុស​ក្នុងដំណោះស្រាយ​ខាងលើ​ គឺការកំណត់តម្លៃ $N$. $N$ មិនអាចកំណត់បានទេ ប្រសិនបើ  $$\epsilon$$ មានតម្លៃធំខ្លាំង ។ កំហុសតូចនេះ ជាធម្មតាកើតឡើង នៅពេលដែលយើង មិនបានយល់ច្បាស់ពីនិយមន័យ ហើយគិតថា តម្លៃ $$\epsilon$$ គឺជ្រើសរើសយកតូចបំផុត ។ ជាការពិត យើងអាចស្រាយបញ្ជាក់ ចំពោះតែ​ករណី $$\epsilon$$ តូចក៏បាន បើសិនជាយើងបានស្រាយភាពសមមូលជាមួយនឹងនិយមន័យដើម ។
 
 We provide 3 different proofs for the above problem. The readers should compare these 3 ways with each other and the proof above.
 
