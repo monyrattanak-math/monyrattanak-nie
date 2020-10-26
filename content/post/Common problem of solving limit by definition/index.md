@@ -1,5 +1,5 @@
 ---
-title: Common Mistake of Solving Limits of Sequence by Definition
+title: កំហុសដែលពេញនិយម ពេលដោះស្រាយលីមីតនៃស្វ៊ីតតាមនិយមន័យ
 date: 2020-06-04
 math: true
 diagram: true
