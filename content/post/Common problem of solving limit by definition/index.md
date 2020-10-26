@@ -5,13 +5,13 @@ math: true
 diagram: true
 markup: mmark
 ---
-We present a mistake some students and teachers made when solving limits of sequence by definition. Consider the following example.
+យើងនឹងធ្វើការបង្ហាញ និងកែលំអនូវកំហុសមួយដែលសិស្ស និស្សិត និង លោកគ្រូ អ្នកគ្រូ មួយចំនួនតែងបង្ករឡើង ពេលដោះស្រាយលីមីតនៃស្វ៊ីតតាមនិយមន័យ ។ ពិនិត្យមើល ឧទាហរណ៍ខាងក្រោម៖
 
-Example 1: Prove by definition that
+ឧទាហរណ៍ 1: Prove by definition that
 
 $$\lim_{n\to\infty}{\frac{n^2}{n^2+1}}=1$$
 
-The following proof are used by some students and teachers.
+ខាងក្រោមនេះ គឺជាដំណោះស្រាយរបស់សិស្ស និស្សិត និងលោកគ្រូ អ្នកគ្រូមួយចំនួន៖
 
 Let $\epsilon>0$, if $$\Big\vert\frac{n^2}{n^2+1}-1\Big\vert<\epsilon$$ then $$\frac{1}{n^2+1}<\epsilon$$ so that $$n>\sqrt{\frac{1}{\epsilon}-1}$$
 
