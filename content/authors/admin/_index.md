@@ -18,7 +18,7 @@ organizations:
   url: "https://www.cimat.mx"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Where there is a will, there is a way.
+bio: វា​មិន​សំខាន់​ទេ​ថា បញ្ហា​ដែល​យើង​ជួប​ប្រទះ វា​ស្មុគស្មាញ​ដល់​កំរិត​ណា អ្វី​ដែល​សំខាន់ តើ​យើង​ឆ្លើយ​តប និង​ដោះ​ស្រាយ​វា ដោយ​វិធី​ណា ។
 
 interests:
 - Toeplitz operators on Bergman spaces
