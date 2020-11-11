@@ -24,10 +24,10 @@
   url = "#talks"
   weight = 50
   
-[[main]]
-  name = "The Nature of Mathematics"
-  url = "#the-nature-of-mathematics"
-  weight = 60 
+#[[main]]
+#  name = "The Nature of Mathematics"
+#  url = "#the-nature-of-mathematics"
+#  weight = 60 
 
 [[main]]
   name = "Life in Mexico"
