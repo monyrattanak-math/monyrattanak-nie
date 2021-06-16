@@ -25,10 +25,10 @@ interests:
 - Lie groups, Lie algebras and Representations
 education:
   courses:
-  - course: PhD in Pure Mathematics
+  - course: PhD in Mathematics
     institution: Centro de Investigación en Matemáticas
     year: 2021
-  - course: MSc in Pure Mathematics
+  - course: MSc in Mathematics
     institution: Centro de Investigación en Matemáticas
     year: 2017
   - course: BSc in Mathematics
