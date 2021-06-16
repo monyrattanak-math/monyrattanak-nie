@@ -18,7 +18,7 @@ organizations:
   url: "https://www.cimat.mx"
 
 # Short bio (displayed in user profile at end of posts)
-bio: What does success mean to you? For me, is to know my true self.
+bio: "My success in life is to know my true self"
 
 interests:
 - Toeplitz operators on Bergman spaces
