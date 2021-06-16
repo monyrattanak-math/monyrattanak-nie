@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD in pure mathematics
+role: PhD in mathematics
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.cimat.mx"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Problems and solutions defined who I am today.
+bio: What does success mean to you? For me, is to know my true self.
 
 interests:
 - Toeplitz operators on Bergman spaces
