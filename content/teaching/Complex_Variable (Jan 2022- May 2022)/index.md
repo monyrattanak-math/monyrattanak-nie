@@ -21,7 +21,7 @@ Homework 1: (Group Homework, Deadline 30-Jan-2022 at 00:00 Phnom Penh time)
 
 5. Exercise 7 in section 1.11.
 
-6. Prove that a set $S$ is closed if and only if $S$ contains each of its accumulation points if and only if the closure of $S$ is $S$ if and only if the complement of $S$ ($\mathbb{C}\setminus S$) is open.
+6. Prove that a set $S$ is closed if and only if $S$ contains each of its accumulation points if and only if the closure of $S$ is $S$ if and only if the complement of $S$ ( that is $\mathbb{C}\setminus S$) is open.
 
 7. Prove that the sets $(b)$ and $(d)$ in exercise 1 of section 1.11 are domains and the set in exercise 5 of section 1.11 is not a domain. Find the closures of thses domains.
 
