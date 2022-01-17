@@ -17,13 +17,15 @@ Homework 1: (Group Homework, Deadline 30-Jan-2022 at 00:00 Phnom Penh time)
 
 3. Exercise 11 in section 1.8.
 
-4. Exercise 6 in section 1.10.
+4. Exercise 6 in section 1.11.
 
-5. Exercise 10 in section 1.10.
+5. Exercise 7 in section 1.11.
 
-6. Prove that a set $S$ is closed if and only if $S$ contains each of its accumulation points if and only if the closure of $S$ is $S$.
+6. Prove that a set $S$ is closed if and only if $S$ contains each of its accumulation points if and only if the closure of $S$ is $S$ if and only if the complement of $S=\mathbb{\C}\setminus S$ is open.
 
-7. 
+7. Prove that the sets $(b)$ and $(d)$ in exercise 1 of section 1.11 are domains and the set in exercise 5 of section 1.11 is not a domain. Find the closures of thses domains.
 
-Please sent your homework to my email (found it in About) with only one pdf file under the name "ComplexV_HW1".
+8. Exercise 10 in section 1.11.
+
+Please sent your homework to my email (found it in About) with only one pdf file under the name "ComplexV_HW1". You are expected to work together and teach each other to solve thses problems.
 
