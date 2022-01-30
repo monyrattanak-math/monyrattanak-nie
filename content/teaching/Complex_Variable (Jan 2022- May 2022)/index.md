@@ -40,9 +40,9 @@ Homework 2: (Group Homework, Deadline 13-Feb-2022 at 00:00 Phnom Penh time)
 
 2. Prove that $\lim\limits_{z\to z_0}f(z)=w_0$ if and only if $\forall\epsilon>0,\forall N\in \mathbb{N},\exists\delta>0$ such that $|f(z)-w_0|< N\epsilon$ whenever $0<|z-z_0|<\delta$.
 
-3. Prove that $\lim\limits_{z\to z_0}f(z)=w_0$ if and only if $\forall\epsilon>0,\forall N\in \mathbb{N},\exits\delta>0$ such that $|f(z)-w_0|< \frac{\epsilon}{N}$ whenever $0<|z-z_0|<\delta$.
+3. Prove that $\lim\limits_{z\to z_0}f(z)=w_0$ if and only if $\forall\epsilon>0,\forall N\in \mathbb{N},\exists\delta>0$ such that $|f(z)-w_0|< \frac{\epsilon}{N}$ whenever $0<|z-z_0|<\delta$.
 
-4. By using definition, prove that $\lim\limits_{z\to z_0}z^2={z_0}^2$.
+4. By using definition, prove that $\lim\limits_{z \to z_0}z^2$
 
 5. Exercise 4 in section 14.
 
