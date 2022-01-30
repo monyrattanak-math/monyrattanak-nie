@@ -36,19 +36,31 @@ Class on 30-Jan-2022: Covered chapter 2 (section 12-16)
 
 Homework 2: (Group Homework, Deadline 13-Feb-2022 at 00:00 Phnom Penh time)
 
-1. Prove that if $in S\subset \mathbb{C}$ is an accumulation point then there exists a sequence in $S$ that converges to $z_0$.
+1. Prove that if $z_0 \in S\subset \mathbb{C}$ is an accumulation point then there exists a sequence in $S$ that converges to $z_0$.
+
+Definition: A complex sequence z_n coverges to z if $\forall \epsilon>0,\exists N\in\mathbb{\N}$ such that $|z_n -z|< \epsilon$ whenever $n > N$.
 
 2. Prove that $\lim\limits_{z\to z_0}f(z)=w_0$ if and only if $\forall\epsilon>0,\forall N\in \mathbb{N},\exists\delta>0$ such that $|f(z)-w_0|< N\epsilon$ whenever $0<|z-z_0|<\delta$.
 
 3. Prove that $\lim\limits_{z\to z_0}f(z)=w_0$ if and only if $\forall\epsilon>0,\forall N\in \mathbb{N},\exists\delta>0$ such that $|f(z)-w_0|< \frac{\epsilon}{N}$ whenever $0<|z-z_0|<\delta$.
 
-4. By using definition, prove that $\lim\limits_{z \to z_0}z^2 = z_0^2$.
+4. Exercise 4 in section 14.
 
-5. Exercise 4 in section 14.
+5. Exercise 7 in section 14. 
 
-6. Exercise 7 in section 14. 
+6. Exercise 1 on page 55.
 
+7. Exercise 2 on page 55.
 
+8. Exercise 3 on page 55.
+
+9. Exercise 5 on page 55.
+
+10. Exercise 7 on page 56.
+
+11. Exercise 8 on page 56.
+
+12. Exercise 9 on page 56.
 
 
 
