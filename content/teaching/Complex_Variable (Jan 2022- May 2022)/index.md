@@ -38,7 +38,7 @@ Homework 2: (Group Homework, Deadline 13-Feb-2022 at 00:00 Phnom Penh time)
 
 1. Prove that if $z_0 \in S\subset \mathbb{C}$ is an accumulation point then there exists a sequence in $S$ that converges to $z_0$.
 
-Definition: A complex sequence z_n coverges to z if $\forall \epsilon>0,\exists N\in\mathbb{\N}$ such that $|z_n -z|< \epsilon$ whenever $n > N$.
+Definition: A complex sequence $z_n$ coverges to $z$ if $\forall \epsilon>0,\exists N\in\mathbb{N}$ such that $|z_n -z|< \epsilon$ whenever $n \geq N$.
 
 2. Prove that $\lim\limits_{z\to z_0}f(z)=w_0$ if and only if $\forall\epsilon>0,\forall N\in \mathbb{N},\exists\delta>0$ such that $|f(z)-w_0|< N\epsilon$ whenever $0<|z-z_0|<\delta$.
 
