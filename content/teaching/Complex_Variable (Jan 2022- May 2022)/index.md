@@ -32,5 +32,3 @@ Homework 1: (Group Homework, Deadline 30-Jan-2022 at 00:00 Phnom Penh time)
 
 8. Exercise 10 in section 1.11.
 
-Please sent your homework to my email (found it in About) with only one pdf file under the name "ComplexV_HW1". You are expected to work together and teach each other to solve thses problems.
-
