@@ -10,6 +10,8 @@ This is a one semester course on complex variables for MAC students cohort I. Th
 The following is the link to join the class:
 <a href="https://join.skype.com/JuVdOw1lLKaS" target="_blank"> https://join.skype.com/JuVdOw1lLKaS</a>.
 
+The following <a href="https://monyrattanak-math.netlify.app/files/How to prove.pdf" target="_blank"> How to Prove</a> is an example showing how to prove things in mathematics. This serves as an idea or a method to do proofs in mathematics.
+
 The homework have to be sent to my email (found it in About) with only one pdf file under the name "ComplexV_HW1" and so on. You are expected to work together and teach each other to solve thses problems.
 
 Class on 16-Jan-2022: Covered chapter 1.
