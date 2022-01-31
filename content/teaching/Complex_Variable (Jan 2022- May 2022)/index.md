@@ -36,31 +36,35 @@ Class on 30-Jan-2022: Covered chapter 2 (section 12-16)
 
 Homework 2: (Group Homework, Deadline 13-Feb-2022 at 00:00 Phnom Penh time)
 
-1. Prove that if $z_0 \in S\subset \mathbb{C}$ is an accumulation point then there exists a sequence in $S$ that converges to $z_0$.
+1. Give an example of a boundary point that is not an accumulation point. This exercise shows that the set of accumulation points of a set $S$ is not the union of $S$ with its boundary (this corrects an error in the class). In fact, $S'\subset S\cup \patial S$.
 
-Definition: A complex sequence $z_n$ coverges to $z$ if $\forall \epsilon>0,\exists N\in\mathbb{N}$ such that $|z_n -z|< \epsilon$ whenever $n \geq N$.
+2. Prove that $z$ is in the closure of a set $S$ if and only if each neighbourhood of $z$ contains at least on point in $S$. This exercise shows the difference between the closure point and the accumulation point.
 
-2. Prove that $\lim\limits_{z\to z_0}f(z)=w_0$ if and only if $\forall\epsilon>0,\forall N\in \mathbb{N},\exists\delta>0$ such that $|f(z)-w_0|< N\epsilon$ whenever $0<|z-z_0|<\delta$.
+3. Prove that the closure of a set is the smallest closed set containing that set. This exercise gives another equivalent definition of the closure of a set.
 
-3. Prove that $\lim\limits_{z\to z_0}f(z)=w_0$ if and only if $\forall\epsilon>0,\forall N\in \mathbb{N},\exists\delta>0$ such that $|f(z)-w_0|< \frac{\epsilon}{N}$ whenever $0<|z-z_0|<\delta$.
+4. A complex sequence $z_n$ coverges to $z$ if $\forall \epsilon>0,\exists N\in\mathbb{N}$ such that $|z_n -z|< \epsilon$ whenever $n \geq N$. Prove that if $z_0 \in S\subset \mathbb{C}$ is an accumulation point then there exists a sequence in $S$ that converges to $z_0$. This is the reason that in some book, an accumulation point is called a limit point.
 
-4. Exercise 4 in section 14.
+5. Prove that $\lim\limits_{z\to z_0}f(z)=w_0$ if and only if $\forall\epsilon>0,\forall N\in \mathbb{N},\exists\delta>0$ such that $|f(z)-w_0|< N\epsilon$ whenever $0<|z-z_0|<\delta$.
 
-5. Exercise 7 in section 14. 
+6. Prove that $\lim\limits_{z\to z_0}f(z)=w_0$ if and only if $\forall\epsilon>0,\forall N\in \mathbb{N},\exists\delta>0$ such that $|f(z)-w_0|< \frac{\epsilon}{N}$ whenever $0<|z-z_0|<\delta$.
 
-6. Exercise 1 on page 55.
+7. Exercise 4 in section 14.
 
-7. Exercise 2 on page 55.
+8. Exercise 7 in section 14. 
 
-8. Exercise 3 on page 55.
+9. Exercise 1 on page 55.
 
-9. Exercise 5 on page 55.
+10. Exercise 2 on page 55.
 
-10. Exercise 7 on page 56.
+11. Exercise 3 on page 55.
 
-11. Exercise 8 on page 56.
+12. Exercise 5 on page 55.
 
-12. Exercise 9 on page 56.
+13. Exercise 7 on page 56.
+
+14. Exercise 8 on page 56.
+
+15. Exercise 9 on page 56.
 
 
 
