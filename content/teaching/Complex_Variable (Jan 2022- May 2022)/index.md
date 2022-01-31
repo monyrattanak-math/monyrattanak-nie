@@ -38,7 +38,7 @@ Homework 2: (Group Homework, Deadline 13-Feb-2022 at 00:00 Phnom Penh time)
 
 1. Give an example of a boundary point that is not an accumulation point. This exercise shows that the set of accumulation points of a set $S$ is not the union of $S$ with its boundary (this corrects an error in the class). In fact, $S'\subset S\cup bd(S)$.
 
-2. Prove that $z$ is in the closure of a set $S$ if and only if each neighbourhood of $z$ contains at least on point in $S$. This exercise shows the difference between the closure point and the accumulation point.
+2. Prove that $z$ is in the closure of a set $S$ if and only if each neighbourhood of $z$ contains at least on point in $S$. This exercise shows the difference between the closure point and the accumulation point. We can also conclude that any accumulation point is a closure point.
 
 3. Prove that the closure of a set is the smallest closed set containing that set. This exercise gives another equivalent definition of the closure of a set.
 
