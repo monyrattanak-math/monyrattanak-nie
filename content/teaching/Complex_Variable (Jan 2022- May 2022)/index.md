@@ -36,7 +36,7 @@ Class on 30-Jan-2022: Covered chapter 2 (section 12-16)
 
 Homework 2: (Group Homework, Deadline 13-Feb-2022 at 00:00 Phnom Penh time)
 
-1. Give an example of a boundary point that is not an accumulation point. This exercise shows that the set of accumulation points of a set $S$ is not the union of $S$ with its boundary (this corrects an error in the class). In fact, $S'\subset S\cup \patial S$.
+1. Give an example of a boundary point that is not an accumulation point. This exercise shows that the set of accumulation points of a set $S$ is not the union of $S$ with its boundary (this corrects an error in the class). In fact, $S'\subset S\cup bd(S)$.
 
 2. Prove that $z$ is in the closure of a set $S$ if and only if each neighbourhood of $z$ contains at least on point in $S$. This exercise shows the difference between the closure point and the accumulation point.
 
