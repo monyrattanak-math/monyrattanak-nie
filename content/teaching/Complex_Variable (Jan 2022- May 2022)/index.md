@@ -72,21 +72,21 @@ Class on 13-Feb-2022: Covered chapter 2 (sections 17-25)
 
 Homework 3: (Group Homework, Deadline 27-Feb-2022 at 00:00 Phnom Penh time)
 
-1. Exercise 9 on page 56.
+1. Exercise 10 on page 56.
 
-2. Exercise 10 on page 56.
+2. Exercise 13 on page 56.
 
-3. Exercise 13 on page 56.
+3. Exercise 4 on page 62.
 
-4. Exercise 4 on page 62.
+4. Exercise 6 on page 72.
 
-5. Exercise 6 on page 72.
+5. Exercise 7 on page 72.
 
-6. Exercise 7 on page 72.
+6. Exercise 8 on page 72.
 
-7. Exercise 8 on page 72.
+7. Exercise 4 on page 77.
 
-8. Exercise 4 on page 77.
+8. Exercise 5 on page 77.
 
 9. Exercise 6 on page 78.
 
