@@ -14,7 +14,7 @@ The <a href="https://monyrattanak-math.netlify.app/files/How to prove.pdf" targe
 
 The homework have to be sent to my email (found it in About) with only one pdf file under the name "ComplexV_HW1" and so on. You are expected to work together and teach each other to solve thses problems.
 
-Class on 16-Jan-2022: Covered chapter 1.
+Class on 16-Jan-2022: Covered chapter 1
 
 Homework 1: (Group Homework, Deadline 30-Jan-2022 at 00:00 Phnom Penh time)
 
@@ -126,7 +126,11 @@ Homework 4: (Group Homework, Deadline 13-Mar-2022 at 00:00 Phnom Penh time)
 
 15. Exercise 4 on page 115.
 
+Class on 13-Mar-2022: Covered chapter 4 (Section 37-39)
 
+Homework 5: (Group Homework, Deadline 27-Mar-2022 at 00:00 Phnom Penh time)
+
+Do all exercises in sections 38 and 39.
 
 
 
