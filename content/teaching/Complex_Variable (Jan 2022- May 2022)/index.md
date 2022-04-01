@@ -5,14 +5,14 @@ math: true
 diagram: true
 markup: mmark
 ---
-This is a one semester course on complex variables for MAC students cohort I. The reference used in the course is "COMPLEX VARIABLES AND APPLICATIONS, 8th edition" by James Ward Brown and Ruel V. Churchill. This course is intended to cover at least from chapter 1 to chapter 7.
+This is a one semester course on complex variables for MAC students cohort I. The reference used in the course is "COMPLEX VARIABLES AND APPLICATIONS, 8th edition" by James Ward Brown and Ruel V. Churchill. This course is intended to cover at least from chapter 1 to chapter 5.
 
 The following is the link to join the class:
 <a href="https://join.skype.com/JuVdOw1lLKaS" target="_blank"> https://join.skype.com/JuVdOw1lLKaS</a>.
 
 The <a href="https://monyrattanak-math.netlify.app/files/How to prove.pdf" target="_blank"> How to Prove</a> is an example showing how to prove things in mathematics. This serves as an idea or a method to do proofs in mathematics.
 
-The homework have to be sent to my email (found it in About) with only one pdf file under the name "ComplexV_HW1" and so on. You are expected to work together and teach each other to solve thses problems.
+The homework have to be sent to my email (found it in About) with only one pdf file under the name "ComplexV_HW1" and so on. You are expected to work together and teach each other to solve these problems.
 
 Class on 16-Jan-2022: Covered chapter 1
 
@@ -34,7 +34,7 @@ Homework 1: (Group Homework, Deadline 30-Jan-2022 at 00:00 Phnom Penh time)
 
 8. Exercise 10 in section 11.
 
-Class on 30-Jan-2022: Covered chapter 2 (sections 12-16)
+Class on 30-Jan-2022: Covered chapter 2: Sections 12-16
 
 Homework 2: (Group Homework, Deadline 13-Feb-2022 at 00:00 Phnom Penh time)
 
@@ -68,7 +68,7 @@ Homework 2: (Group Homework, Deadline 13-Feb-2022 at 00:00 Phnom Penh time)
 
 15. Exercise 9 on page 56.
 
-Class on 13-Feb-2022: Covered chapter 2 (sections 17-25)
+Class on 13-Feb-2022: Covered chapter 2: sections 17-25
 
 Homework 3: (Group Homework, Deadline 27-Feb-2022 at 00:00 Phnom Penh time)
 
@@ -92,7 +92,7 @@ Homework 3: (Group Homework, Deadline 27-Feb-2022 at 00:00 Phnom Penh time)
 
 10. Exercise 7 on page 78.
 
-Class on 27-Feb-2022: Covered chapter 3.
+Class on 27-Feb-2022: Covered chapter 3
 
 Homework 4: (Group Homework, Deadline 13-Mar-2022 at 00:00 Phnom Penh time)
 
@@ -126,11 +126,17 @@ Homework 4: (Group Homework, Deadline 13-Mar-2022 at 00:00 Phnom Penh time)
 
 15. Exercise 4 on page 115.
 
-Class on 13-Mar-2022: Covered chapter 4 (Section 37-39)
+Class on 13-Mar-2022: Covered chapter 4: Section 37-39
 
 Homework 5: (Group Homework, Deadline 27-Mar-2022 at 00:00 Phnom Penh time)
 
 Do all exercises in sections 38 and 39.
+
+Class on 27-Mar-2022: Covered chapter 4: Section 40-42
+
+Homework 6: (Group Homework, Deadline 10-Apr-2022 at 00:00 Phnom Penh time)
+
+Do all exercises in section 42.
 
 
 
