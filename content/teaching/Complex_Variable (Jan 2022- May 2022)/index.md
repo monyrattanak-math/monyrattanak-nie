@@ -138,8 +138,39 @@ Homework 6: (Group Homework, Deadline 10-Apr-2022 at 00:00 Phnom Penh time)
 
 Do all exercises in section 42.
 
+Class on 24-Apr-2022: Covered chapter 4: Section 43-54
 
+Homework 7: (Group Homework, Deadline 12-May-2022 at 00:00 Phnom Penh time)
 
+1. Exercise 3 in section 43.
+
+2. Exercise 4 in section 43.
+
+3. Exercise 6 in section 43.
+
+4. Exercise 1 in section 45.
+
+5. Exercise 5 in section 45.
+
+6. Exercise 2 in section 49.
+
+7. Exercise 4 in section 49.
+
+8. Exercise 6 in section 49.
+
+9. Exercise 1 in section 52.
+
+10. Exercise 2 in section 52.
+
+11. Exercise 7 in section 52.
+
+12. Exercise 1 in section 54.
+
+13. Exercise 3 in section 54.
+
+14. Exercise 6 in section 54.
+
+15. Exercise 8 in section 54.
 
 
 
