@@ -126,19 +126,19 @@ Homework 4: (Group Homework, Deadline 13-Mar-2022 at 00:00 Phnom Penh time)
 
 15. Exercise 4 on page 115.
 
-Class on 13-Mar-2022: Covered chapter 4: Section 37-39
+Class on 13-Mar-2022: Covered chapter 4: Sections 37-39
 
 Homework 5: (Group Homework, Deadline 27-Mar-2022 at 00:00 Phnom Penh time)
 
 Do all exercises in sections 38 and 39.
 
-Class on 27-Mar-2022: Covered chapter 4: Section 40-42
+Class on 27-Mar-2022: Covered chapter 4: Sections 40-42
 
 Homework 6: (Group Homework, Deadline 10-Apr-2022 at 00:00 Phnom Penh time)
 
 Do all exercises in section 42.
 
-Class on 24-Apr-2022: Covered chapter 4: Section 43-54
+Class on 24-Apr-2022: Covered chapter 4: Sections 43-54
 
 Homework 7: (Group Homework, Deadline 12-May-2022 at 00:00 Phnom Penh time)
 
@@ -171,6 +171,20 @@ Homework 7: (Group Homework, Deadline 12-May-2022 at 00:00 Phnom Penh time)
 14. Exercise 6 in section 54.
 
 15. Exercise 8 in section 54.
+
+Class on 15-May-2022: Read chapter 5
+
+Homework 8: (Group Homework, Deadline 28-May-2022 at 00:00 Phnom Penh time)
+
+1. Section 56: Exercise 4, Section 59: Exercise 13, Section 62: Exercise 8, Section 66: Exercise 12, Section 67: Exercise 8.
+
+2. Section 56: Exercise 6, Section 59: Exercise 10, Section 62: Exercise 5, Section 66: Exercise 10, Section 67: Exercise 7.
+
+3. Section 56: Exercise 9, Section 59: Exercise 14, Section 62: Exercise 11, Section 66: Exercise 5, Section 67: Exercise 6.
+
+4. Section 59: Exercise 6, Section 62: Exercises 2 and 9, Section 66: Exercise 2, Section 67: Exercise 5.
+
+5. Section 59: Exercise 7, Section 62: Exercises 4 and 10, Section 66: Exercise 1, Section 67: Exercise 3.
 
 
 
