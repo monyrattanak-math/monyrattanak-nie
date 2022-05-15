@@ -174,7 +174,7 @@ Homework 7: (Group Homework, Deadline 12-May-2022 at 00:00 Phnom Penh time)
 
 Class on 15-May-2022: Read chapter 5
 
-Homework 8: (Group Homework, Deadline 28-May-2022 at 00:00 Phnom Penh time)
+Homework 8: (Group Homework, Deadline 05-Jun-2022 at 00:00 Phnom Penh time)
 
 1. Section 56: Exercise 4, Section 59: Exercise 13, Section 62: Exercise 8, Section 66: Exercise 12, Section 67: Exercise 8.
 
