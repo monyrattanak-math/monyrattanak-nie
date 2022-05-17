@@ -44,6 +44,10 @@ Mostly we ate at restaurants they speak English. Luckily, my friend has a friend
 
 For me, I don't like their lifestyle (local Vietnamese) and the surrounding, the way they treat foreigners and the way they drive but this is just a part of VN and in fact there are many places in VN people recommend. After that, we realized we could process visas in Thailand, and we thought that it would be more fun than in VN. This was because we followed the advice from French professor and we had no ideas (non of us went aboard before) as this was our first time. However, everything occurred for reason.
 
+{{< figure src="Gallery/Visa-in-VN.jpg" title="With a friend (the last one left to right) in VN" lightbox="true" >}}
+
+{{< figure src="Gallery/anti-movement-sickness.jpg" title="The bracelets helped me passed through difficult situation" lightbox="true" >}}
+
 # A Journey to Mexico
 
 A flight to Mexico was transit in Malaysia (about 11 hours) then transit in Germany (about 6 hours) and we arrived Mexico city at night. There was a person from CIMAT had waited for us at airport and drove us to Guanajuato. According to this journey, I would had vomit 4 times. I was afraid and my only hope was bracelets an American recommended. I didn't know where to buy them but fortunately, I found them. Did they help?
@@ -68,11 +72,32 @@ There was a student from Cimat names Chava helped us for the first week. We comm
 
 # Phd Life
 
-# Gallery
+# IWOTA in Portugal
 
-{{< figure src="Gallery/Visa-in-VN.jpg" title="With a friend (the last one left to right) in VN" lightbox="true" >}}
+# Leaving Guanajuato City
 
-{{< figure src="Gallery/anti-movement-sickness.jpg" title="The bracelets helped me passed through difficult situation" lightbox="true" >}}
+# After PhD
+
+As I was sure that I will got my PhD, I have to plan for my next step: work in Mexico or return to Cambodia. It was in fact a very difficult decision. My first decision was either to do a postdoc or to work in Mexico for a couple of years and then came back to Cambodia. However, as I am not a Mexican I cannot live in Mexico without a resident card. I tried so hard to find a job in order to live my life in Mexico but the more I found the less motivation I was.
+
+There were many well-paid jobs suitable for statisticians not for mathematician or a fresh pure mathematics graduate like me. I could only work in university or do a postdoc. But postdoc was not a choice at that time because my resident card will expired in April while postdoc will start at least in August. Working in university is not a well-paid job and also I had to adopt myself to teach other subjects than the subjects I like. All of these made me disappointed of what I have study and after all efforts I had put to obtain my PhD. I discussed it with my friends and thought of other way to leave in Mexico waiting until August or next year to start my postdoc.
+
+However, there was no easy way for me and at that time I realized that even thought I lived more than 7 years in Mexico I was only a foreigner who studied in Mexico and my mission was complete. I also reminded of uncomfortable feeling when I asked for visa to go to Portugal. After a long year lived far away from my home, Cambodia is the only country that accept me with any condition because I was born as a Cambodian. Why don't I want to go back? I decided to give up and went back to Cambodia.
+
+# Leaving Mexico
+
+After almost 7 years and half in Mexico, this country become my second home although I didn't notice. A decision to leave Mexico was made my I had a lot of memory there. I did have very good friends: Irving and Monse, and my cat: Felisa. We live together more than 3 years and Felisa always slept with me. I always prepared to bring Felisa with me but thing turned out not as I expected. I had to leave her for my friends as I know that they will take very good care of her and I though that Mexico is a home for Felisa not Cambodia. I though she will live happily in Mexico than in Cambodia even thought I knew I will miss her.
+
+Saying good bye with your dear friends and those who love you is very emotion and I almost cry with I wrote this part. I went to supermarket, to any where I used to go before and I started to feel that I will no longer see those places, buy those things or speak Spanish. I Spoke Spanish with realize that it is not Khmer, I could understand the people around me and communicated with the local. But these may not be the case after I leave Mexico. I also remember the activities I did with my Cambodian friend, with the cats I had help and more. All the memories came up but I had to do what I plan.
+
+I also went to CIMAT to say good bye to Jannet, Lolita y Lalo those who work in school service who always support me and all students in CIMAT. CIMAT is like a home to me that I will never forget. I walked everywhere in CIMAT for the last time as I knew that maybe I will no longer see it again. Also I visited many places in Guanajuato city, the beautiful and relaxing city, before I left.
+
+For my friends, it was very difficult. I acted as normal, prepared my stuff and until the day I left I almost cry when I see my friend Monse cried. When I visited my home in 2017, I went alone and when I came back I went alone but that time was different. My friend's family who took me as one of the family, they took me to the airport, helped me with my luggage and waiting for me. They told me that I don't have only my family in Cambodia, I also have a family in Mexico. The way they looked at me and the last time when I hug all of them, and the last time saw them and waved my hand as a sign of good bye, I almost cry.
+
+I didn't want to make thing more emotion, I wound cry if I saw their faces for a long time. I preferred not to say emotional things and just left. I though maybe this was also the reason that he didn't talk much. I do miss them, all of them and Mexico and I wish they all happy without me.
+
+# Return Home
+
 
 
 
