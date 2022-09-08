@@ -4,10 +4,7 @@ date:
 math: true
 diagram: true
 markup: mmark
-featured: false
 ---
-date: "2022-01-15"
-all_day: false
 
 The video <a href="https://www.awesomescreenshot.com/video/9069678?key=ce8d81fbf50448ec951dffc94666c42a" target="_blank"> Presentation Using Latex Beamer</a> shows how to organize a math presentation and the latex codes used to obtained this presentation. This video is for students who know Latex but have less experience in math presentation and Beamer.
 
