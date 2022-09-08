@@ -4,6 +4,7 @@ date:
 math: true
 diagram: true
 markup: mmark
+featured: false
 ---
 This is a one semester course on complex variables for MAC students cohort I. The reference used in the course is "COMPLEX VARIABLES AND APPLICATIONS, 8th edition" by James Ward Brown and Ruel V. Churchill. This course is intended to cover at least from chapter 1 to chapter 5.
 
