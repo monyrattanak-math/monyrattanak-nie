@@ -1,6 +1,6 @@
 ---
 title: កំហុសដែលពេញនិយម ពេលដោះស្រាយ​លីមីត​នៃស្វ៊ីត​តាមនិយមន័យ
-date: 2020-06-04
+date: "2020-06-04"
 math: true
 diagram: true
 markup: mmark

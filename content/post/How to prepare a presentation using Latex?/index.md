@@ -1,6 +1,6 @@
 ---
 title: How to Prepare a Presentation Using Latex?
-date: 
+date: "2021-09-18"
 math: true
 diagram: true
 markup: mmark

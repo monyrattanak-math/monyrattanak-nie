@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: teaching
 
 # View.
 #   1 = List

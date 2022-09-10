@@ -1,6 +1,6 @@
 ---
 title: តើគួរអានសៀវភៅគណិត ដោយរបៀបណា?
-date: 
+date: "2021-08-18"
 math: true
 diagram: true
 markup: mmark
