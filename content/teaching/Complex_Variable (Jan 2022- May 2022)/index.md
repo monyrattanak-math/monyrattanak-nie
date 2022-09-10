@@ -1,9 +1,12 @@
 ---
 title: Complex Variables (Jan 2022 - May 2022)
-event: ""
-event_url: ""
-location: Vitual
-# summary: An example talk using Academic's Markdown slides feature.
+date: 
+math: true
+diagram: true
+markup: mmark
+featured: false
+---
+
 This is a one semester course on complex variables for MAC students cohort I. The reference used in the course is "COMPLEX VARIABLES AND APPLICATIONS, 8th edition" by James Ward Brown and Ruel V. Churchill. This course is intended to cover at least from chapter 1 to chapter 5.
 
 The following is the link to join the class:
@@ -185,49 +188,16 @@ Homework 8: (Group Homework, Deadline 05-Jun-2022 at 00:00 Phnom Penh time)
 
 5. Section 59: Exercise 7, Section 62: Exercises 4 and 10, Section 66: Exercise 1, Section 67: Exercise 3.
 
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-01-16T00:00:00Z"
-date_end: "2022-05-15T00:00:00Z"
-all_day: false
 
-# Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
 
-authors: []
-tags: []
 
-# Is this a featured talk? (true/false)
-featured: false
 
-# image:
-#  caption: ''
-#  focal_point: Right
 
-links:
-# - icon: twitter
-#  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
 
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-# slides: example
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-# projects:
-# - internal-project
 
-# Enable math on this page?
-math: true
----
+
+
+
+
+
+
