@@ -1,6 +1,6 @@
 ---
 title: Topology I (Jan 2022 - May 2022)
-date:
+date: "2022-09-10"
 math: true
 diagram: true
 markup: mmark
