@@ -20,7 +20,7 @@ publication_types: ["2"]
 publication: "Complex Analysis and Operator Theory"
 publication_short: ""
 
-abstract: Let us consider, for $n \geq 3$, the Cartan domain $D^{IV}__n$ of type IV. denoted by $L^{\infty}(D^{IV}_n)^{\mu^{SO(2)}}$, yield Toeplitz operators that generate commutative $C^*$-algebras. Spectral integral formulas for these Toeplitz operators are also obtained.
+abstract: Let us consider, for $n \geq 3$, the Cartan domain $D^{IV}_n$ of type IV. denoted by $L^{\infty}(D^{IV}_n)^{\mu^{SO(2)}}$, yield Toeplitz operators that generate commutative $C^*$-algebras. Spectral integral formulas for these Toeplitz operators are also obtained.
 
 # Summary. An optional shortened abstract.
 summary: ""
