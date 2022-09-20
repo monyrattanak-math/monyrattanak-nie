@@ -85,19 +85,19 @@ privacy_pack = false
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "monyrattanak.seng@cimat.mx"
+email = "seng.monyrattanak@rupp.edu.kh"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Jalisco S/N", city = "Guanajuato", region = "Gto", postcode = "36023", country = "Mexico", country_code = "MX"}
+address = {street = "", city = "Phnom Penh", region = "Phnom Penh", postcode = "", country = "Cambodia", country_code = "KH"}
 
 # Geographic
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 # coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Directions for visitors to locate you.
-directions = "Office Cimat: D105"
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
