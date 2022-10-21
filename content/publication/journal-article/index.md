@@ -27,7 +27,7 @@ summary: ""
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://rdcu.be/cWtjJ
+url_pdf: https://arxiv.org/pdf/2205.06786.pdf
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
