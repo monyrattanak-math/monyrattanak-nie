@@ -5,27 +5,27 @@
 
 
 [[main]]
-  name = "About"
+  name = "អំពីខ្ញុំ"
   url = "#about"
   weight = 20
 
 [[main]]
-  name = "Posts"
+  name = "អត្ថបទខ្លីៗ"
   url = "#posts"
   weight = 30
 
 [[main]]
-  name = "Publications"
+  name = "បោះពុម្ព"
   url = "#publications"
   weight = 40
 
 [[main]]
-  name = "Talks"
+  name = "បទបង្ហាញ"
   url = "#talks"
   weight = 50
   
 [[main]]
-  name = "Teaching"
+  name = "កិច្ចការបង្រៀន"
   url = "#teachings"
   weight = 60 
 
@@ -35,11 +35,11 @@
   weight = 70
   
 [[main]]
-  name = "Gallery"
+  name = "កម្រងរូបភាព"
   url = "#gallery"
   weight = 80
 [[main]]
-  name = "Contact"
+  name = "ទំនាក់ទំនង"
   url = "#contact"
   weight = 90
 
