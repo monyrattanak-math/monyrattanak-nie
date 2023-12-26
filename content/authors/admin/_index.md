@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Monyrattanak Seng
+name: សេង មុន្នីរតនៈ
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD in mathematics
+role: គ្រូឧទ្ទេសគណិតវិទ្យា
 
 # Organizations/Affiliations
 organizations:
-- name: Royal University of Phnom Penh
-  url: "http://www.rupp.edu.kh/"
+- name: វិទ្យាស្ថានជាតិអប់រំ
+  url: "https://nie.edu.kh/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: "The real success in life is to know your true self"
@@ -71,8 +71,7 @@ user_groups:
 ---
 
 ខ្ញុំជាគ្រូឧទ្ទេសគណិតវិទ្យានៅវិទ្យាស្ថានជាតិអប់រំ។ ការសិក្សាស្រាវជ្រាវរបស់ខ្ញុំផ្តល់ទៅលើការអប់រំ និង ទ្រឹស្តីគណិតវិទ្យា។
-ខ្ញុំបញ្ចប់ការសិក្សាថ្នាក់បណ្ឌិតឯកទេសគណិតវិទ្យាទ្រឹស្តី នៅវិទ្យាស្ថានស្រាវជ្រាវគណិតវិទ្យា (<a href="https://cimat.mx/" target="_blank"> CIMAT</a>) ប្រទេសម៉ិចស៊ីកូ
+ខ្ញុំបញ្ចប់ការសិក្សាថ្នាក់បណ្ឌិតឯកទេសគណិតវិទ្យាទ្រឹស្តី នៅវិទ្យាស្ថានស្រាវជ្រាវគណិតវិទ្យា ( ហៅកាត់ថា <a href="https://cimat.mx/" target="_blank"> CIMAT</a>) នៅប្រទេសម៉ិចស៊ីកូ
 ក្រោមការដឹកនាំពី សាស្ត្រាចារ្យបណ្ឌិត <a href="https://www.cimat.mx/~quiroga/" target="_blank">Raúl Quiroga Barranco</a> 
 ដោយដោះស្រាយបញ្ហាក្នុងទ្រឹស្តីការីពីជគណិត តាមរយៈការប្រើប្រាស់ទ្រឹស្តី Representation និង ធរណីមាត្រ Symplectic។
-{style="text-align: justify;"}
 
