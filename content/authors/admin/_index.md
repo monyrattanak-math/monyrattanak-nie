@@ -46,7 +46,7 @@ social:
   link: '#contact'  # For a direct email link, use "seng.monyrattanak@rupp.edu.kh".
 - icon: telegram
   icon_pack: fab
-  link: 't.me/Monyrattanak_SENG'
+  link: 'https:t.me/Monyrattanak_SENG'
 #- icon: facebook
 #  icon_pack: fab
 #  link: https://www.facebook.com/buttra?ref=bookmarks
