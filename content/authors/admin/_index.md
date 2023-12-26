@@ -20,11 +20,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: "ជីវិតខ្លីណាស់ ចាប់ផ្តើមធ្វើវាទៅ"
 
-ការស្រាវជ្រាវ:
+interests:
   - ការអប់រំគណិតវិទ្យា និង វិធីសាស្ត្របង្រៀន
   - ស្រាវជ្រាវគណិតវិទ្យា
   - រៀបរៀង និង និពន្ធសៀវភៅគណិតវិទ្យា
-ប្រវត្តិសិក្សា:
+education:
   courses:
   ​​​  - course: បណ្ឌិតឯកទេស គណិតវិទ្យាទ្រឹស្តី
       institution: Centro de Investigación en Matemáticas
@@ -73,4 +73,4 @@ user_groups:
 ខ្ញុំបញ្ចប់ការសិក្សាថ្នាក់បណ្ឌិតឯកទេសគណិតវិទ្យាទ្រឹស្តី នៅវិទ្យាស្ថានស្រាវជ្រាវគណិតវិទ្យា (<a href="https://cimat.mx/" target="_blank"> CIMAT</a>) ប្រទេសម៉ិចស៊ីកូ
 ក្រោមការដឹកនាំពី សាស្ត្រាចារ្យបណ្ឌិត <a href="https://www.cimat.mx/~quiroga/" target="_blank">Raúl Quiroga Barranco</a> 
 ដោយដោះស្រាយបញ្ហាក្នុងទ្រឹស្តីការីពីជគណិត តាមរយៈការប្រើប្រាស់ទ្រឹស្តី Representation និង ធរណីមាត្រ Symplectic។ 
-
+{style="text-align: justify;"}
