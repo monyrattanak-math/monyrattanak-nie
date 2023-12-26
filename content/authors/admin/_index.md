@@ -18,7 +18,7 @@ organizations:
   url: "https://nie.edu.kh/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "The real success in life is to know your true self"
+bio: "ជីវិតខ្លីណាស់ ចាប់ផ្តើមធ្វើវាទៅ"
 
 interests:
 - ការអប់រំគណិតវិទ្យា និង វិធីសាស្ត្របង្រៀន
@@ -57,7 +57,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: https://monyrattanak-math.netlify.com/files/cv.pdf
+  link: https://monyrattanak-nie.netlify.com/files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
