@@ -1,11 +1,14 @@
 ---
-title: Topology I (Sep 2022 - Jan 2023)
+title: តូប៉ូវិទ្យា
 date: "2022-09-10"
 math: true
 diagram: true
 markup: mmark
 ---
 
-This is a one semester course on Topology I for class 3E in RUPP. The course will cover some fundamental and important concepts in general topology (or point-set topology) such as The Line and the Plan, Metric Spaces, Topological Spaces, Connectedness, Compactness, Product and Quotient Spaces, Separation Properties and Metrization and The Fundamental Group.
-
-The reference for this course is <a href="https://b-ok.asia/book/2040242/a9e836" target="_blank"> Pinciple of Topology</a> by Fred H. Croom.
+មុខវិជ្ជាតូប៉ូវិទ្យានេះ ត្រូវបង្រៀនសម្រាប់រយៈពេល ២ ឆមាស ដែលមានរយៈពេល ១៥ សប្តាហ៍ក្នុងមួយឆមាស ហើយសិក្សា ៦ ម៉ោងក្នុងមួយសប្តាហ៍។ ប្រធានបទសំខាន់ៗ ដែលត្រូវសិក្សារួមមាន
+ - តូប៉ូវិទ្យាលើបន្ទាត់ និង ប្លង់
+ - លំហតូបូ៉
+​ - ភាព Connect និង ភាព Compact
+ - លំហមេទ្រិក
+ - ទ្រឹស្តីបទចំណុចនឹង Banach
