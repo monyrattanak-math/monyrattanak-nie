@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: ការបង្រៀន
 
 # View.
 #   1 = List
