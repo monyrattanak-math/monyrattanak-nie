@@ -28,25 +28,3 @@ markup: mmark
 <a href="https://monyrattanak-nie.netlify.com/files/LiAlgebra_Partial1.pdf" target="_blank"> វិញ្ញាសាប្រលងលើកទីមួយ កុម្ភៈ-មិថុនា 2024</a> \\
 <a href="https://monyrattanak-nie.netlify.com/files/LinearAlgebra1_Final.pdf" target="_blank"> វិញ្ញាសាប្រលងបញ្ចប់ឆមាស កញ្ញា-មករា 2024</a>\\
 <a href="https://monyrattanak-nie.netlify.com/files/MidtermLinear2024.pdf" target="_blank"> វិញ្ញាសាប្រលងពាក់កណ្តាលឆមាស កញ្ញា-មករា 2024</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
