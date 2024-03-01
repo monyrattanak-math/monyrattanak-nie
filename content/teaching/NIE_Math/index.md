@@ -6,7 +6,7 @@ diagram: true
 markup: mmark
 ---
 មុខវិជ្ជាឯកទេសគណិតវិទ្យាត្រូវបង្រៀននៅវិទ្យាស្ថានជាតិអប់រំដោយប្រើប្រាស់សៀវភៅគោលក្រសួងអប់រំថ្នាក់ទី១០ ដល់ទី ១២ និង សៀវភៅជំនួយ\\
-<a href="https://monyrattanak-nie.netlify.com/files/(Unitext) Claudio Canuto_ Anita Tabacco - Mathematical Analysis. 1-Springer.pdf" target="_blank"> Claudio Canuto, Anita Tabacco - Mathematical Analysis I</a>
+<a href="https://monyrattanak-nie.netlify.com/files/(Unitext) Claudio Canuto_ Anita Tabacco - Mathematical Analysis. 1-Springer.pdf" target="_blank"> Claudio Canuto, Anita Tabacco - Mathematical Analysis I</a>\\
 មុខវិជ្ជាឯកទេស១ ត្រូវបង្រៀនរយៈពេល ៣ម៉ោងក្នុងមួយសប្តាហ៍ ចំនួន ១៥ សប្តាហ៍ ដោយផ្តោតលើមេរៀនខាងក្រោម៖
  - និយមន័យលីមីត
  - ភាពរួម និង ភាពជាប់
