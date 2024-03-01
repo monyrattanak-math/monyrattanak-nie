@@ -1,5 +1,5 @@
 ---
-title: Complex Variables (Jan 2022 - May 2022)
+title: ពីជគណិតលីនេអ៊ែរ
 date: "2022-01-16"
 math: true
 diagram: true
