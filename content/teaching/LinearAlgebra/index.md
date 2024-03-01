@@ -1,6 +1,6 @@
 ---
 title: ពីជគណិតលីនេអ៊ែរ
-date: "2022-09-10"
+date: "2022-09-11"
 math: true
 diagram: true
 markup: mmark
